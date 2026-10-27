@@ -1,0 +1,18 @@
+{
+  "name": "jochen-grunbeck",
+  "owner": {
+    "name": "Jochen Grünbeck",
+    "url": "https://github.com/jogb"
+  },
+  "metadata": {
+    "description": "Value-proposition tools by Jochen Grünbeck — diagnose and build the reasons customers buy.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "vp-toolkit",
+      "source": "./plugins/vp-toolkit",
+      "description": "Two Claude Skills: vp-diagnosis (score & fix the value proposition on a page) and vp-development (build one through a guided interview). Shared harsh 0-2 scoring."
+    }
+  ]
+}
