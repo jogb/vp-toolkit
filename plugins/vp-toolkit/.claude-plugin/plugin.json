@@ -1,0 +1,6 @@
+{
+  "name": "vp-toolkit",
+  "version": "1.0.0",
+  "description": "Diagnose and develop value propositions. vp-diagnosis scores and fixes the VP on a page; vp-development builds one through a guided interview. Shared harsh 0-2 scoring so a VP built by one is re-scored by the other without translation.",
+  "author": { "name": "Jochen Grünbeck" }
+}
